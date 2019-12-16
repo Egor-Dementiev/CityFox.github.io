@@ -12,12 +12,16 @@ h2{
 }
 
 .Name{
-    color:orange;
+    color:#ff7700;
 }
 .ots{
     color:#FFFFFF;
 }
 .Name1{
-    color:orange;
+    color:#ff4000;
     text-decoration: blink;
+    font-size:46px;
+}
+.Name3{
+	color: orange;
 }
